@@ -63,6 +63,7 @@
     color: black;
     font-family: 'Roboto', sans-serif;
     position: fixed;
+    float: left;
     padding: 10px 10px 0px 10px;
     bottom: 0px;
     width: 100%;
