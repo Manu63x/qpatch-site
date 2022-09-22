@@ -64,6 +64,11 @@
     margin-left: auto;
     margin-right: auto;
   }
+  
+  .carousel-caption{
+    background-color: #00000091;
+    border-radius: 8px;
+  }
 
   footer{
     color: black;
