@@ -9,38 +9,7 @@
     background-position: center center;
   }
   
-  .carousel{
-    transform: scale(0.7);
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
   .carousel-caption{
     background-color: #00000091;
     border-radius: 8px;
-  }
-
-  .title{
-    background-color: #ffffff;
-    border-radius: 8px;
-    margin: 0px 20px 20px 20px;
-    font-family: 'Heebo', sans-serif;
-    text-align: center;
-  }
-
-  footer{
-    color: black;
-    font-family: 'Roboto', sans-serif;
-    position: fixed;
-    float: left;
-    padding: 10px 10px 0px 10px;
-    bottom: 0px;
-    width: 100%;
-    /* Height of the footer*/
-    height: 35px;
-    background: #f1f1f1;
-  }
-  
-  .mailLink{
-    float: right;
   }
